@@ -1,4 +1,4 @@
-local_authority_code,local_authority_name,lsoa_code,lsoa_name,house_price_year_ending_dec_2016,house_price_year_ending_mar_2021
+local_authority_code,local_authority_name,LSOACD,LSOANM,house_price_year_ending_dec_2016,house_price_year_ending_mar_2021
 E09000004,Bexley,E01000470,Bexley 002F,210000,
 E09000032,Wandsworth,E01004568,Wandsworth 013A,,
 E09000010,Enfield,E01001483,Enfield 025A,219000,177500
